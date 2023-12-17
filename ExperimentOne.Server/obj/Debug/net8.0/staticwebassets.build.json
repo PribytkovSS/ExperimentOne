@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "FTZvH98Gq0Zkk7GPWabZhoLSEogHWRF0tzvicOoyGsI=",
+  "Source": "ExperimentOne.Server",
+  "BasePath": "_content/ExperimentOne.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Pet\\ExperimentOne\\experimentone.client\\experimentone.client.esproj",
+      "Version": 2,
+      "Source": "experimentone.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
